@@ -1,0 +1,71 @@
+
+:root {
+    font-family: Poppins;
+  }
+
+html { 
+    background-color: #eeeeee;
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+.full-screen {
+    height: 100%;
+}
+
+.center-vertical {
+    border: 2px red solid;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.speciality {
+    border: 1px blue solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+
+.explanation {
+    border: 1px green solid;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.boxes {
+    border: 5px black dotted;
+    display: flex;
+    justify-content: center;
+    line-height: 1;
+}
+
+h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+h4 {
+    color: #751aff;
+    font-size: 20px;
+    margin-top: 0px;
+}
+
+.subboxes {
+    width: 305px;
+    height: 398px;
+    margin: 12px;
+    padding: 8px;
+    border: 1px #eeeeee solid;
+    justify-content: flex-start;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 #bfbfbf, 0 6px 20px 0 #bfbfbf;
+}
