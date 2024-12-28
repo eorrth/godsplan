@@ -17,7 +17,7 @@ body {
 }
 
 .center-vertical {
-    border: 2px red solid;
+    /*border: 2px red solid;*/
     height: 100%;
     display: flex;
     justify-content: center;
@@ -25,7 +25,7 @@ body {
 }
 
 .speciality {
-    border: 1px blue solid;
+    /*border: 1px blue solid;*/
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,7 +33,7 @@ body {
 }
 
 .explanation {
-    border: 1px green solid;
+    /*border: 1px green solid;*/
     font-size: 18px;
     display: flex;
     justify-content: center;
@@ -42,7 +42,7 @@ body {
 }
 
 .boxes {
-    border: 5px black dotted;
+    /*border: 5px black dotted;*/
     display: flex;
     justify-content: center;
     line-height: 1;
@@ -60,8 +60,8 @@ h4 {
 }
 
 .subboxes {
-    width: 305px;
-    height: 398px;
+    width: 200px;
+    height: 295px;
     margin: 12px;
     padding: 8px;
     border: 1px #eeeeee solid;
